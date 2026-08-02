@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**juliethomas00/juliethomas00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Julie and welcome to my GitHub page!
 
 As a Master's of Marine Biology student at James Cook University, I am always learning how to use new and exciting tools and advancing my skills in data analysis and visualization. This platform will become a collage of all the cool projects I get the opportunity to work on!
