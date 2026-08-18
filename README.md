@@ -8,4 +8,11 @@ Throughout my career, I aspire to contribute to climate change resilience and co
 
 Follow along on my journey (from behind the scenes)!
 
-My GitHub holds repositories for each module of Mb5370 - Techniques in Marine Science and my individual oral presentation. The repositories are pinned below for your ease of use!
+My GitHub holds repositories for each module of Mb5370 - Techniques in Marine Science and my individual oral presentation. These include:
+- Module 1 : Introduction to Programming
+- Module 2 : Data Science in R
+- Module 3 : Marine Genomics
+- Module 4 : Data Analyses at the Global Scale
+- Oral Presentation
+  
+The repositories are pinned below for your ease of use!
